@@ -8,11 +8,10 @@ Senior Software Engineering student
 <h3 align="left">&nbsp; Contact me :</h3>
 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ranaaldossari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-mosaibah-32873a196" height="30" width="40" /></a>
+
 </p>
 <br>
 
@@ -27,7 +26,7 @@ Senior Software Engineering student
   <img title="Java" height="35" src="images/java-original.svg">
   <img title="GitHub" height="35" src="images/github.svg">
   <img title="MySQL" height="35" src="images/mysql.svg">
-  <img title="MySQL" height="35" src="images/mysql.svg">
+  
   
 </div>
 <br>
