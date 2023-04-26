@@ -1,15 +1,6 @@
 
-<head>
-<style>
-h1 {text-align: center;}
-</style>
-</head>
-<body>
 
-<h1>This is a heading</h1>
-####                                                          I'm Rania Alageel 🇸🇦
-<br>
-<hr>
+<h1> I'm Rania Alageel 🇸🇦</h1>
 Senior Software Engineering student 
 <br>
 <br>
@@ -17,4 +8,3 @@ Senior Software Engineering student
 Contact me :
 <br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</body>
