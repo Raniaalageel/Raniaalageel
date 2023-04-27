@@ -5,7 +5,7 @@ Senior Software Engineering student
 <br>
 <br>
 
-<h3 align="left">&nbsp; Contact me :</h3>
+<!-- <h3 align="left">&nbsp; Contact me :</h3> -->
 
 <br>
 
@@ -15,7 +15,7 @@ Senior Software Engineering student
 </p>
 <br>
 
-<h3> &nbsp; Skills : </h3>
+<!-- <h3> &nbsp; Skills : </h3>
 <div>
   
   <img title="HTML5" height="35" src="images/html5.svg">
@@ -27,7 +27,7 @@ Senior Software Engineering student
   <img title="GitHub" height="35" src="images/github.svg">
   <img title="MySQL" height="35" src="images/mysql.svg">
   
-  
+   -->
 </div>
 <br>
 <br>
