@@ -14,8 +14,7 @@ Senior Software Engineering student
 # Contact me ✉️:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-alageel-a23048220/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rania.kh.ala@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rania.kh.ala@gmail.com)
 
 
 
@@ -29,26 +28,10 @@ Senior Software Engineering student
 
 <br>
 
-<p align="left">
+<!-- # Tools ⚙️ :
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-</p>
-<br>
+ -->
 
-<!-- <h3> &nbsp; Skills : </h3>
-<div>
-  
-  <img title="HTML5" height="35" src="images/html5.svg">
-  <img title="CSS" height="35" src="images/css.svg">
-  <img title="PHP" height="35" src="images/php.svg">
-  <img title="Python" height="35" src="images/python-original.svg">
-  <img title="Javascript" height="35" src="images/javascript.svg">
-  <img title="Java" height="35" src="images/java-original.svg">
-  <img title="GitHub" height="35" src="images/github.svg">
-  <img title="MySQL" height="35" src="images/mysql.svg">
-  
-   -->
-</div>
-<br>
-<br>
 
 
