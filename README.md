@@ -7,6 +7,8 @@ Senior Software Engineering student
 
 <!-- <h3 align="left">&nbsp; Contact me :</h3> -->
 
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
 <br>
 
 
