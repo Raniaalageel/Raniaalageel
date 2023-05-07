@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=DevM7mdAli&label=Profile%20Views&color=12&icon=2&pretty=true" align = "right"/>
 </a> 
 
-<h1 align="center">Hi there i'm Rania Alageel 💻 </h1>
+<h1 align="center">I'm Rania Alageel 💻 </h1>
 <h3 align="center">
 Senior Software Engineering student 
 </h3> 
