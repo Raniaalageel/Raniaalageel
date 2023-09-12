@@ -3,10 +3,10 @@
 </a> 
 
 <h1 align="center"> Hello there! 👋 I'm Rania Alageel 💻 </h1>
-<h3 align="Lift">
+<h6 align="Lift">
 A passionate and results-driven software engineer with a strong background in creating robust and innovative software solutions. I'm on a continuous journey to explore the ever-evolving world of technology and leverage it to solve real-world problems.
 
-</h3> 
+</h6> 
 <br>
 <br>
 
