@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Rania Alageel 💻 </h1>
 <h3 align="center">
-Senior Software Engineering student 
+Software Engineering 
 </h3> 
 <br>
 <br>
